@@ -25,8 +25,9 @@ Go ⣤,
 JavaScript ⣤,
 Zsh ⣿
 
-#### Find Me
+#### Links
 
+[GPG](https://github.com/QuarticCat.gpg),
 [Blog](https://blog.quarticcat.com/),
 [Stack Overflow](https://stackoverflow.com/users/14258517/quarticcat),
 [Codewars](https://www.codewars.com/users/QuarticCat)
