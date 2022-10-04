@@ -1,8 +1,10 @@
 ### Hi, it's [QuarticCat](https://QuarticCat.github.io/)
 
-<a href="https://github.com/QuarticCat/QuarticCat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=QuarticCat&hide_title=true&count_private=true&show_icons=true">
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-virid-five.vercel.app/api?username=QuarticCat&hide_title=true&count_private=true&show_icons=true&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-virid-five.vercel.app/api?username=QuarticCat&hide_title=true&count_private=true&show_icons=true">
+  <img align="right">
+</picture>
 
 I'm a CS undergrad. Currently, I don't have a specific direction. I'm trying everything and enjoying the learning process.
 
