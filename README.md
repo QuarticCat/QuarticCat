@@ -1,8 +1,8 @@
 ### Hi, it's [QuarticCat](https://QuarticCat.github.io/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-virid-five.vercel.app/api?username=QuarticCat&hide_title=true&count_private=true&show_icons=true&theme=onedark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-virid-five.vercel.app/api?username=QuarticCat&hide_title=true&count_private=true&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=QuarticCat&hide_title=true&count_private=true&show_icons=true&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=QuarticCat&hide_title=true&count_private=true&show_icons=true">
   <img align="right">
 </picture>
 
