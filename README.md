@@ -19,18 +19,28 @@ The username "QuarticCat" is meaningless. It is built from a random prefix and a
 
 #### Languages (Dots → Proficiency)
 
-C / C++ ⣿ (CUDA ⣶, SYCL ⣤),
-Rust ⣿,
-Python ⣿,
-Haskell ⣶ (Clash ⣤),
-Go ⣤,
-JavaScript ⣤,
+C / C++ ⣿ (CUDA ⣶, SYCL ⣤)
+&bull;
+Rust ⣿
+&bull;
+Python ⣿
+&bull;
+Haskell ⣶ (Clash ⣤)
+&bull;
+Go ⣤
+&bull;
+JavaScript ⣤
+&bull;
 Zsh ⣿
 
 #### Links
 
-[GPG](https://github.com/QuarticCat.gpg),
-[Blog](https://blog.quarticcat.com/) (en/zh),
-[Stack Overflow](https://stackoverflow.com/users/14258517/quarticcat),
-[Codewars](https://www.codewars.com/users/QuarticCat),
+[GPG](https://github.com/QuarticCat.gpg)
+&bull;
+[Blog](https://blog.quarticcat.com/) (en/zh)
+&bull;
+[Stack Overflow](https://stackoverflow.com/users/14258517/quarticcat)
+&bull;
+[Codewars](https://www.codewars.com/users/QuarticCat)
+&bull;
 [Telegram Channel](https://t.me/QC_Grove) (zh)
