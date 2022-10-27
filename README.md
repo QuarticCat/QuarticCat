@@ -30,6 +30,7 @@ Zsh ⣿
 #### Links
 
 [GPG](https://github.com/QuarticCat.gpg),
-[Blog](https://blog.quarticcat.com/),
+[Blog](https://blog.quarticcat.com/) (en/zh),
 [Stack Overflow](https://stackoverflow.com/users/14258517/quarticcat),
-[Codewars](https://www.codewars.com/users/QuarticCat)
+[Codewars](https://www.codewars.com/users/QuarticCat),
+[Telegram Channel](https://t.me/QC_Grove) (zh)
