@@ -33,10 +33,8 @@ JavaScript ⣤
 &bull;
 Zsh ⣿
 
-#### Links
+#### Find Me On
 
-[GPG](https://github.com/QuarticCat.gpg)
-&bull;
 [Blog](https://blog.quarticcat.com/) (en/zh)
 &bull;
 [Stack Overflow](https://stackoverflow.com/users/14258517/quarticcat)
