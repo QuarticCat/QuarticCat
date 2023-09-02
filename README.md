@@ -1,6 +1,6 @@
 ### Hi, it's [QuarticCat](https://QuarticCat.github.io/)
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=QuarticCat&hide_title=true&count_private=true&show_icons=true&theme=onedark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=QuarticCat&hide_title=true&count_private=true&show_icons=true">
   <img align="right">
@@ -41,4 +41,4 @@ Zsh ⣿
 &bull;
 [Codewars](https://www.codewars.com/users/QuarticCat)
 &bull;
-[Telegram Channel](https://t.me/QC_Grove) (zh)
+[Telegram Channel](https://t.me/QC_Grove) (zh) -->
