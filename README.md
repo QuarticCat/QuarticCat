@@ -1,14 +1,33 @@
-### Hi, it's [QuarticCat](https://QuarticCat.github.io/)
+### Hi, it's QuarticCat
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=QuarticCat&hide_title=true&count_private=true&show_icons=true&theme=onedark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=QuarticCat&hide_title=true&count_private=true&show_icons=true">
   <img align="right">
-</picture>
+</picture> -->
 
-I'm a CS undergrad. Currently, I don't have a specific direction. I'm trying everything and enjoying the learning process.
+Sometimes I write my own things:
 
-The username "QuarticCat" is meaningless. It is built from a random prefix and a cute yet common suffix. Simply call me "QC" if you want.
+- [detypify](https://github.com/QuarticCat/detypify): Typst symbol classifier
+- [paguroidea](https://github.com/SchrodingerZhu/paguroidea): A reimplementation of the Flap parser in Rust
+
+Sometimes I make FOSS projects faster:
+
+- [difftastic](https://github.com/Wilfred/difftastic)
+  ([#393](https://github.com/Wilfred/difftastic/pull/393),
+  [#395](https://github.com/Wilfred/difftastic/pull/395),
+  [#401](https://github.com/Wilfred/difftastic/pull/401),
+  [blog](https://blog.quarticcat.com/posts/optimize-difftastic/))
+  <br/>
+  A bunch of optimizations, boosting it by 4x. (partially merged tho)
+- [lalrpop](https://github.com/lalrpop/lalrpop)
+  ([#814](https://github.com/lalrpop/lalrpop/pull/814))
+  <br/>
+  Rewrite the lexer, making the whole parsing process to be 2x~30x faster.
+- [exllama](https://github.com/turboderp/exllama)
+  ([#275](https://github.com/turboderp/exllama/pull/275))
+  <br/>
+  Optimize the hottest CUDA kernel, resulting in 20% speedup on 2070S and 10% speedup on 3090. (note it's already well optimized)
 
 #### Interests
 
@@ -17,21 +36,10 @@ The username "QuarticCat" is meaningless. It is built from a random prefix and a
 - Functional Programming
 - ... (learning more)
 
-#### Languages (Dots → Proficiency)
+#### Languages
 
-C / C++ ⣿ (CUDA ⣶, SYCL ⣤)
-&bull;
-Rust ⣿
-&bull;
-Python ⣿
-&bull;
-Haskell ⣶ (Clash ⣤)
-&bull;
-Go ⣤
-&bull;
-JavaScript ⣤
-&bull;
-Zsh ⣿
+- Mostly C++, Rust, Zsh
+- Occasionally Python, Javascript, Haskell
 
 #### Find Me On
 
@@ -41,4 +49,4 @@ Zsh ⣿
 &bull;
 [Codewars](https://www.codewars.com/users/QuarticCat)
 &bull;
-[Telegram Channel](https://t.me/QC_Grove) (zh) -->
+[Telegram Channel](https://t.me/QC_Grove) (zh)
