@@ -19,15 +19,15 @@ Sometimes I make FOSS projects faster:
   [#401](https://github.com/Wilfred/difftastic/pull/401),
   [blog](https://blog.quarticcat.com/posts/optimize-difftastic/))
   <br/>
-  A bunch of optimizations, boosting it by 4x. (partially merged tho)
+  Wrote a bunch of optimizations, boosting it by 4x. (partially merged)
 - [lalrpop](https://github.com/lalrpop/lalrpop)
   ([#814](https://github.com/lalrpop/lalrpop/pull/814))
   <br/>
-  Rewrite the lexer, making the whole parsing process to be 2x~30x faster.
+  Rewrote the lexer, making the whole parsing process to be 2x~30x faster.
 - [exllama](https://github.com/turboderp/exllama)
   ([#275](https://github.com/turboderp/exllama/pull/275))
   <br/>
-  Optimize the hottest CUDA kernel, resulting in 20% speedup on 2070S and 10% speedup on 3090. (note it's already well optimized)
+  Optimized the hottest CUDA kernel, gaining 20% speedup on 2070S and 10% speedup on 3090. (note it's already well optimized)
 
 #### Interests
 
