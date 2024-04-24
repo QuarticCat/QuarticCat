@@ -38,8 +38,8 @@ Sometimes I make FOSS projects faster:
 
 #### Languages
 
-- Mostly C++, Rust, Zsh
-- Occasionally Python, Javascript, Haskell
+- Mostly: C++, Rust, Zsh
+- Occasionally: Python, Javascript, Haskell
 
 #### Find Me On
 
