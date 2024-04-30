@@ -6,12 +6,12 @@
   <img align="right">
 </picture> -->
 
-Sometimes I write my own things:
+#### Projects
 
 - [detypify](https://github.com/QuarticCat/detypify): Typst symbol classifier
 - [paguroidea](https://github.com/SchrodingerZhu/paguroidea): A reimplementation of the Flap parser in Rust
 
-Sometimes I make FOSS projects faster:
+#### Notable Contributions
 
 - [difftastic](https://github.com/Wilfred/difftastic)
   ([#393](https://github.com/Wilfred/difftastic/pull/393),
@@ -39,7 +39,7 @@ Sometimes I make FOSS projects faster:
 #### Languages
 
 - Mostly: C++, Rust, Zsh
-- Occasionally: Python, Javascript, Haskell
+- Sometimes: Python, Javascript, Haskell
 
 #### Find Me On
 
