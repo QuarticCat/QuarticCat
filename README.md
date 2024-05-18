@@ -9,6 +9,7 @@
 #### Projects
 
 - [detypify](https://github.com/QuarticCat/detypify): Typst symbol classifier
+- [tinymist](https://github.com/Myriad-Dreamin/tinymist): An integrated language service for Typst
 - [paguroidea](https://github.com/SchrodingerZhu/paguroidea): A reimplementation of the Flap parser in Rust
 
 #### Notable Contributions
@@ -19,7 +20,7 @@
   [#401](https://github.com/Wilfred/difftastic/pull/401),
   [blog](https://blog.quarticcat.com/posts/optimize-difftastic/))
   <br/>
-  Wrote a bunch of optimizations, boosting it by 4x. (partially merged)
+  Wrote a bunch of optimizations, boosting it by 4x while using only 23% of memory. (partially merged)
 - [lalrpop](https://github.com/lalrpop/lalrpop)
   ([#814](https://github.com/lalrpop/lalrpop/pull/814))
   <br/>
@@ -27,7 +28,7 @@
 - [exllama](https://github.com/turboderp/exllama)
   ([#275](https://github.com/turboderp/exllama/pull/275))
   <br/>
-  Optimized the hottest CUDA kernel, gaining 20% speedup on 2070S and 10% speedup on 3090. (note it's already well optimized)
+  Optimized the hottest CUDA kernel, gaining 20% speedup on 2070S and 10% speedup on 3090.
 
 #### Interests
 
