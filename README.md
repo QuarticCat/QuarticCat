@@ -40,7 +40,7 @@
 #### Languages
 
 - Mostly: C++, Rust, Zsh
-- Sometimes: Python, Javascript, Haskell
+- Sometimes: Python, Haskell
 
 #### Find Me On
 
