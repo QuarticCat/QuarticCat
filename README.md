@@ -14,21 +14,22 @@
 
 #### Notable Contributions
 
-- [difftastic](https://github.com/Wilfred/difftastic)
-  ([#393](https://github.com/Wilfred/difftastic/pull/393),
+- [![](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat&label=difftastic)](https://github.com/Wilfred/difftastic)
+  [#393](https://github.com/Wilfred/difftastic/pull/393),
   [#395](https://github.com/Wilfred/difftastic/pull/395),
   [#401](https://github.com/Wilfred/difftastic/pull/401),
-  [blog](https://blog.quarticcat.com/posts/optimize-difftastic/))
+  [blog](https://blog.quarticcat.com/posts/optimize-difftastic/)
+  (partially merged)
   <br/>
-  Wrote a bunch of optimizations, boosting it by 4x while using only 23% of memory. (partially merged)
-- [lalrpop](https://github.com/lalrpop/lalrpop)
-  ([#814](https://github.com/lalrpop/lalrpop/pull/814))
+  **4x speedup & 70%+ memory reduction** through algorithm optimizations and many techniques.
+- [![](https://img.shields.io/github/stars/lalrpop/lalrpop?style=flat&label=lalrpop)](https://github.com/lalrpop/lalrpop)
+  [#814](https://github.com/lalrpop/lalrpop/pull/814)
   <br/>
-  Rewrote the lexer, making the whole parsing process to be 2x~30x faster.
-- [exllama](https://github.com/turboderp/exllama)
-  ([#275](https://github.com/turboderp/exllama/pull/275))
+  **2x~30x speedup** by identifying redundant works inside the lexer.
+- [![](https://img.shields.io/github/stars/turboderp/exllama?style=flat&label=exllama)](https://github.com/turboderp/exllama)
+  [#275](https://github.com/turboderp/exllama/pull/275)
   <br/>
-  Optimized the hottest CUDA kernel, gaining 20% speedup on 2070S and 10% speedup on 3090.
+  **1.2x speedup** through better memory access patterns and cache-friendly data layout.
 
 #### Interests
 
@@ -39,15 +40,15 @@
 
 #### Languages
 
-- Mostly: C++, Rust, Zsh
-- Sometimes: Python, Haskell
+- Mostly: Rust, C++
+- Sometimes: Python, Zsh
 
-#### Find Me On
+#### Find Me At
 
-[Blog](https://blog.quarticcat.com/) (en/zh)
+[My Blog](https://blog.quarticcat.com/) (en/zh)
+&bull;
+[My Telegram Channel](https://t.me/QC_Grove) (zh)
 &bull;
 [Stack Overflow](https://stackoverflow.com/users/14258517/quarticcat)
 &bull;
 [Codewars](https://www.codewars.com/users/QuarticCat)
-&bull;
-[Telegram Channel](https://t.me/QC_Grove) (zh)
